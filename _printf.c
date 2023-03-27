@@ -63,4 +63,4 @@ void print_buffer(char buffer[], int *buff_ind)
 		write(1, &buffer[0], *buff_ind);
 
 	*buff_ind = 0;
-}  /* This_project_was_done_by_Samuel_and_Tyndale */ 
+}  /* This_project_was_done_by_Samuel_and_Tyndale */
