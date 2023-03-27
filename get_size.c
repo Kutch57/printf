@@ -23,4 +23,4 @@ int get_size(const char *format, int *i)
 		*i = curr_i;
 
 	return (size);
-}
+} /* This_project_was_done_by_Samuel_and_Tyndale */

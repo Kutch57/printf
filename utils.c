@@ -83,4 +83,4 @@ long int convert_size_unsgnd(unsigned long int num, int size)
 		return ((unsigned short)num);
 
 	return ((unsigned int)num);
-}
+} /* This_project_was_done_by_Samuel_and_Tyndale */

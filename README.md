@@ -92,5 +92,5 @@ Handle the following custom conversion specifier:
 R: prints the rot13'ed string
 15. *
 #advanced
-All the above options work well together.
+All the above options work well together. /* This_project_was_done_by_Samuel_and_Tyndale */ 
 
