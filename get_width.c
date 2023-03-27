@@ -33,4 +33,4 @@ int get_width(const char *format, int *i, va_list list)
 	*i = curr_i - 1;
 
 	return (width);
-}
+} /* This_project_was_done_by_Samuel_and_Tyndale */
